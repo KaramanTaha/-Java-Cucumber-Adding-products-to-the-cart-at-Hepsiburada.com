@@ -1,0 +1,8 @@
+<suite name = "HepsiburadaProject">
+    <parameter name = "browser" value = "Chrome"/>
+    <test name ="Hepsiburada.comProject">
+        <classes>
+            <class name = "testRunners.runner"/>
+        </classes>
+    </test>
+</suite>
